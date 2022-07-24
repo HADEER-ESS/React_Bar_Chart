@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #422d1f;
+}
+hr{
+    margin: 0 20px;
+    border: 1px solid rgb(245,238,224)
+}
+.spend-wrapper{
+    width: 40%;
+    margin: 0 auto;
+    background-color: #fffcf7;
+    border-radius: 7px;
+}
+.spend-wrapper h2{
+    padding: 10px 15px;
+}
+.item-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 15px;
+}

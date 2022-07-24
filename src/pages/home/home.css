@@ -1,0 +1,9 @@
+
+.home-wrapper{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #f7e9dc;
+    height: 100vh;
+    padding-top: 80px;
+}
