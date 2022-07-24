@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Bar_Chart/static/css/main.87d90c3b.css",
+    "main.js": "/React_Bar_Chart/static/js/main.cd26ef0d.js",
+    "static/js/787.52832860.chunk.js": "/React_Bar_Chart/static/js/787.52832860.chunk.js",
+    "index.html": "/React_Bar_Chart/index.html",
+    "static/media/logo.svg": "/React_Bar_Chart/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
+    "main.87d90c3b.css.map": "/React_Bar_Chart/static/css/main.87d90c3b.css.map",
+    "main.cd26ef0d.js.map": "/React_Bar_Chart/static/js/main.cd26ef0d.js.map",
+    "787.52832860.chunk.js.map": "/React_Bar_Chart/static/js/787.52832860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d90c3b.css",
+    "static/js/main.cd26ef0d.js"
+  ]
+}
